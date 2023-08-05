@@ -19,7 +19,7 @@ Feel free to explore and check out the assignments that interest you. Each assig
 
 ### 3. Title: VR Room Tour 
 - **Description:** C# and Unity to develop a virtual reality scene for display and demo the furniture. User could interact with the furniture with switch on and off to show the function of the furniture.
-- **Repository:** [Youtube](https://youtu.be/RMhzG833Cwc)
+- **Video Demo:**[Youtube](https://youtu.be/RMhzG833Cwc)
 
 
 ### 4. Title: Website Introduce a Person
